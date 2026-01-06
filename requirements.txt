@@ -1,0 +1,10 @@
+PyQt6
+requests
+openai
+opencv-python
+ffmpeg-python
+pydub
+Pillow
+numpy
+pyttsx3
+openai-whisper

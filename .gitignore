@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build & Distribution
+build/
+dist/
+*.exe
+*.pkg
+!build_exe.spec
+
+# Project specific
+resources/projects/
+resources/config/config.json
+!resources/config/config.example.json

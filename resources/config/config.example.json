@@ -1,0 +1,94 @@
+{
+    "OPENAI_API_KEY": "",
+    "ELEVENLABS_API_KEY": "",
+    "api_configs": [
+        {
+            "name": "xiaoai",
+            "type": "LLM",
+            "provider": "openai",
+            "api_key": "",
+            "base_url": "https://xiaoai.plus/v1",
+            "model": "gpt-4o",
+            "id": "a34a85b4-5cdf-4eef-aff7-af7043bf4345"
+        },
+        {
+            "name": "xiaoaiTTS",
+            "type": "TTS",
+            "provider": "openai",
+            "api_key": "",
+            "base_url": "https://xiaoai.plus/v1",
+            "model": "tts-1",
+            "id": "bebc2c34-5c26-4765-a9f6-daaa0941b616"
+        },
+        {
+            "name": "DeepSeek",
+            "type": "LLM",
+            "provider": "DeepSeek",
+            "api_key": "",
+            "base_url": "https://api.deepseek.com/v1",
+            "model": "deepseek-chat",
+            "id": "23f69d2d-f8dd-4ea0-983c-691433e9ae85"
+        },
+        {
+            "name": "xiaoaiPic",
+            "type": "Image",
+            "provider": "openai",
+            "api_key": "",
+            "base_url": "https://xiaoai.plus/v1",
+            "model": "dall-e-3",
+            "id": "fa3d4717-f6cc-4eb3-b012-a1dd75773a33",
+            "is_default": false
+        },
+        {
+            "name": "veo3.1-comfly",
+            "type": "ImageToVideo",
+            "provider": "google",
+            "api_key": "",
+            "base_url": "https://ai.comfly.chat/v2/videos/generations",
+            "model": "veo3.1",
+            "is_default": false,
+            "id": "7e2372ac-6ff9-4954-bba1-920e53264732"
+        },
+        {
+            "name": "Nano-banana",
+            "type": "Image",
+            "provider": "Google",
+            "api_key": "",
+            "base_url": "https://ai.comfly.chat/v1/images/generations",
+            "model": "nano-banana",
+            "is_default": true,
+            "id": "23906b27-5819-49ad-8623-cddbebf873fc"
+        },
+        {
+            "name": "GoogleVeo3.1",
+            "type": "ImageToVideo",
+            "provider": "Google",
+            "api_key": "",
+            "base_url": "https://generativelanguage.googleapis.com/v1beta/models/veo-3.1:predict",
+            "model": "veo-3.1",
+            "is_default": false,
+            "id": "8f519180-9833-4bbf-93bb-3e718a56a1d4"
+        },
+        {
+            "name": "sora2",
+            "type": "ImageToVideo",
+            "provider": "OpenAI",
+            "api_key": "",
+            "base_url": "https://ai.comfly.chat/v2/videos/generations",
+            "model": "sora-2",
+            "is_default": true,
+            "id": "21e745a9-7515-4907-b534-2231e5d9ce05"
+        },
+        {
+            "name": "RunwayVideo",
+            "type": "ImageToVideo",
+            "provider": "Runway",
+            "api_key": "",
+            "base_url": "https://ai.comfly.chat/runway/v1/pro/generate",
+            "model": "runwayml-gen4_turbo",
+            "is_default": false,
+            "id": "d9f87ab8-3dca-456d-9a6e-ffaec6c02b9c"
+        }
+    ],
+    "first_run_date": "2025-12-05"
+}
