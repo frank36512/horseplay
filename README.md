@@ -14,11 +14,9 @@
 
 ## 📺 演示视频
 
-<video src="demovideo.mp4" controls="controls" style="max-width: 100%;">
-  您的浏览器不支持视频标签。
-</video>
+[![观看演示视频](shoot.png)](demovideo.mp4)
 
-[如果视频无法播放，请点击这里下载观看](demovideo.mp4)
+> 点击上方图片或 [这里](demovideo.mp4) 观看演示视频。
 
 ## 📥 下载地址
 

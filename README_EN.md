@@ -14,11 +14,9 @@
 
 ## 📺 Demo Video
 
-<video src="demovideo.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+[![Watch Demo Video](shoot.png)](demovideo.mp4)
 
-[Click here to download/watch if the video doesn't play](demovideo.mp4)
+> Click the image above or [here](demovideo.mp4) to watch the demo video.
 
 ## 📥 Download
 
