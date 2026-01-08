@@ -14,7 +14,7 @@
 
 ## 📺 Demo Video
 
-[![Watch Demo Video](shoot.png)](demovideo.mp4)
+[![Watch Demo Video](shoot2.png)](demovideo.mp4)
 
 > Click the image above or [here](demovideo.mp4) to watch the demo video.
 

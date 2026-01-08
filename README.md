@@ -14,7 +14,7 @@
 
 ## 📺 演示视频
 
-[![观看演示视频](shoot.png)](demovideo.mp4)
+[![观看演示视频](shoot2.png)](demovideo.mp4)
 
 > 点击上方图片或 [这里](demovideo.mp4) 观看演示视频。
 
