@@ -14,11 +14,11 @@
 
 ## 📺 Demo Video
 
-<video src="demofilm.mp4" controls="controls" style="max-width: 100%;">
+<video src="demovideo.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
 
-[Click here to download/watch if the video doesn't play](demofilm.mp4)
+[Click here to download/watch if the video doesn't play](demovideo.mp4)
 
 ## 📥 Download
 
