@@ -8,6 +8,24 @@
 
 ---
 
+## 🖼️ Screenshots
+
+![Software Screenshot](shoot.png)
+
+## 📺 Demo Video
+
+<video src="demofilm.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
+[Click here to download/watch if the video doesn't play](demofilm.mp4)
+
+## 📥 Download
+
+[**Download Latest EXE (Quark Cloud)**](https://pan.quark.cn/s/becdf8427ee9)
+
+---
+
 ## 📖 Introduction
 
 **Horseplay (马上短剧生成系统)** is a comprehensive tool designed to revolutionize the creation of short video dramas. By integrating state-of-the-art AI models for scriptwriting, character design, image generation, video synthesis, and voice synthesis, this tool empowers creators to produce high-quality content with unprecedented efficiency.
