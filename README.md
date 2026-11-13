@@ -1,12 +1,16 @@
 # <img src="horseplay.ico" width="48" style="vertical-align: middle;"> 马上短剧生成系统 (Horseplay)
 
+
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 
 [English](README_EN.md) | **中文**
 
----
+鉴于作者对短剧工具进行了重构，且功能变化较大，新开了仓库，本仓库不再维护。
+请移步狸猫短剧仓库
+https://github.com/frank36512/dragonli
 
 ## 🖼️ 软件截图
 
